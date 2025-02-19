@@ -1,101 +1,114 @@
-<h1>🚀 Deepin To The Void 🌌</h1>
-<p>You are the commander of EXO, a spacecraft built for a one-way journey into the unknown. There is no return mission, no second chance. Only you, an advanced AI crew, and the endless depths of space. Every decision matters, and survival depends entirely on your ability to manage the ship.</p>
+# 🚀 Deepin To The Void 🌌
 
-<h2>🛠 Pre-Launch Preparations</h2>
-<p>Before even leaving Earth’s orbit, you must:</p>
-<ul>
-    <li>✔ <strong>Run full system diagnostics</strong> - Check power distribution, fuel levels, and onboard computing integrity.</li>
-    <li>✔ <strong>Secure cargo and supplies</strong> - Ensure life support has enough oxygen, food rations are sufficient, and spare parts are stocked.</li>
-    <li>✔ <strong>Verify navigation systems</strong> - Program initial coordinates and confirm long-range scanning is functional.</li>
-    <li>✔ <strong>Perform emergency drills</strong> - Simulate fires, system failures, and hull breaches to test response protocols.</li>
-</ul>
+You are the commander of EXO, a spacecraft built for a one-way journey into the unknown. There is no return mission, no second chance. Only you, an advanced AI crew, and the endless depths of space. Every decision matters, and survival depends entirely on your ability to manage the ship.
 
-<h2>🌌 Managing the Ship in Deep Space</h2>
-<p>Once in the void, the real challenge begins. Every action is controlled via console commands, with no graphical interface-only logs, alerts, and system feedback.</p>
+## 🛠 Pre-Launch Preparations
 
-<h2>🔧 Ship Maintenance & Resource Management</h2>
-<ul>
-    <li>✔ <strong>Power Distribution</strong> - Balance energy usage between life support, engines, scanners, and auxiliary systems.</li>
-    <li>✔ <strong>Fuel Efficiency</strong> - Monitor reactor output and optimize thruster burn to conserve fuel.</li>
-    <li>✔ <strong>System Failures</strong> - Detect malfunctions, reroute power, and manually repair damaged components.</li>
-    <li>✔ <strong>Radiation Shielding</strong> - Ensure protective plating remains intact against cosmic radiation.</li>
-</ul>
+Before even leaving Earth’s orbit, you must:
 
-<h2>🧠 Crew & AI Management</h2>
-<ul>
-    <li>✔ <strong>AI Crew Stability</strong> - The ship’s artificial intelligence evolves over time; improper handling can lead to erratic behavior.</li>
-    <li>✔ <strong>Mental Health</strong> - Prolonged isolation affects even the most advanced AI. Engage in meaningful dialogues to prevent instability.</li>
-    <li>✔ <strong>Morale & Motivation</strong> - Keeping the AI engaged with exploratory missions, puzzles, and self-improvement tasks prevents system degradation.</li>
-</ul>
+- ✔ **Run full system diagnostics** - Check power distribution, fuel levels, and onboard computing integrity.
+- ✔ **Secure cargo and supplies** - Ensure life support has enough oxygen, food rations are sufficient, and spare parts are stocked.
+- ✔ **Verify navigation systems** - Program initial coordinates and confirm long-range scanning is functional.
+- ✔ **Perform emergency drills** - Simulate fires, system failures, and hull breaches to test response protocols.
 
-<h2>🔭 Exploration & Research</h2>
-<ul>
-    <li>✔ <strong>Deep Space Scanning</strong> - Identify nearby celestial bodies, anomalies, and potential alien artifacts.</li>
-    <li>✔ <strong>Drone Deployment</strong> - Send robotic probes to collect samples, gather intelligence, or conduct risky scouting missions.</li>
-    <li>✔ <strong>Signal Decoding</strong> - Analyze transmissions from unknown sources; determine if they pose a threat or opportunity.</li>
-</ul>
+## 🌌 Managing the Ship in Deep Space
 
-<h2>⚠ Emergency Situations</h2>
-<ul>
-    <li>✔ <strong>Hull Breaches</strong> - Seal leaks before oxygen levels drop dangerously low.</li>
-    <li>✔ <strong>Fires & Power Surges</strong> - Shut down affected sections and reroute energy to prevent cascading failures.</li>
-    <li>✔ <strong>Alien Anomalies</strong> - Strange objects and signals could either be beneficial or catastrophic-proceed with caution.</li>
-    <li>✔ <strong>Navigation Hazards</strong> - Asteroid fields, black holes, and gravitational anomalies require careful maneuvering.</li>
-</ul>
+Once in the void, the real challenge begins. Every action is controlled via console commands, with no graphical interface—only logs, alerts, and system feedback.
 
-<h2>🖥 Control Interface: Pure Console Experience</h2>
-<p>There are no visual aids, no HUD—only pure text commands and system logs. The game challenges you to think like a real space commander, relying on:</p>
-<ul>
-    <li>Terminal commands for system operations.</li>
-    <li>Sensor readouts to assess external threats.</li>
-    <li>AI dialogue interactions to keep the ship running smoothly.</li>
-</ul>
-<p>Your mission is endless. Your survival is uncertain. Your choices define the fate of EXO.</p>
+## 🔧 Ship Maintenance & Resource Management
 
-<h2>🛠 Requirements</h2>
-<p>To run Deepin To The Void, you will need the following:</p>
-<ul>
-    <li><strong>CMake</strong> - A tool for managing the build process.</li>
-    <li><strong>Compiler</strong> - Any C++20-compliant compiler. (GCC, clang, MSVC,...)</li>
-    <li><strong>On Windows:</strong> 
-        <ul>
-            <li>Windows SDK</li>
-            <li>Microsoft Visual C++</li>
-        </ul>
-    </li>
-</ul>
+- ✔ **Power Distribution** - Balance energy usage between life support, engines, scanners, and auxiliary systems.
+- ✔ **Fuel Efficiency** - Monitor reactor output and optimize thruster burn to conserve fuel.
+- ✔ **System Failures** - Detect malfunctions, reroute power, and manually repair damaged components.
+- ✔ **Radiation Shielding** - Ensure protective plating remains intact against cosmic radiation.
 
-<h2>💻 How to Install</h2>
-<p>Follow these steps to install Deepin To The Void:</p>
-<ol>
-    <li>Clone the repository:
-        <pre>git clone https://github.com/NeonLightions/DeepinToTheVoid.git</pre>
-    </li>
-    <li>Navigate to the project directory:
-        <pre>cd DeepinToTheVoid</pre>
-    </li>
-    <li>Create a build directory and enter it:
-        <pre>mkdir build && cd build</pre>
-    </li>
-    <li>Run CMake to configure the project:
-        <pre>cmake ..</pre>
-    </li>
-    <li>Build the project:
-        <pre>cmake --build .</pre>
-    </li>
-    <li>Run the game:
-        <pre>.\DeepinToTheVoid.exe</pre>
-    </li>
-</ol>
+## 🧠 Crew & AI Management
 
-<h2>🌍 Supported Platform</h2>
-<p>Currently, only Windows is supported. Future updates may include support for other platforms.</p>
+- ✔ **AI Crew Stability** - The ship’s artificial intelligence evolves over time; improper handling can lead to erratic behavior.
+- ✔ **Mental Health** - Prolonged isolation affects even the most advanced AI. Engage in meaningful dialogues to prevent instability.
+- ✔ **Morale & Motivation** - Keeping the AI engaged with exploratory missions, puzzles, and self-improvement tasks prevents system degradation.
 
-<h2>📝 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong> - see the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for details.</p>
+## 🔭 Exploration & Research
 
-<hr>
+- ✔ **Deep Space Scanning** - Identify nearby celestial bodies, anomalies, and potential alien artifacts.
+- ✔ **Drone Deployment** - Send robotic probes to collect samples, gather intelligence, or conduct risky scouting missions.
+- ✔ **Signal Decoding** - Analyze transmissions from unknown sources; determine if they pose a threat or opportunity.
 
-<p><del>This introduction has been written by AI</del></p>
+## ⚠ Emergency Situations
 
-<h1>🚀 Are you prepared to venture into the void?</h1>
+- ✔ **Hull Breaches** - Seal leaks before oxygen levels drop dangerously low.
+- ✔ **Fires & Power Surges** - Shut down affected sections and reroute energy to prevent cascading failures.
+- ✔ **Alien Anomalies** - Strange objects and signals could either be beneficial or catastrophic—proceed with caution.
+- ✔ **Navigation Hazards** - Asteroid fields, black holes, and gravitational anomalies require careful maneuvering.
+
+## 🖥 Control Interface: Pure Console Experience
+
+There are no visual aids, no HUD—only pure text commands and system logs. The game challenges you to think like a real space commander, relying on:
+
+- Terminal commands for system operations.
+- Sensor readouts to assess external threats.
+- AI dialogue interactions to keep the ship running smoothly.
+
+Your mission is endless. Your survival is uncertain. Your choices define the fate of EXO.
+
+## 🛠 Requirements
+
+To run Deepin To The Void, you will need the following:
+
+- **CMake** - A tool for managing the build process.
+- **Compiler** - Any C++20-compliant compiler. (GCC, clang, ...)
+
+## 💻 How to Install
+
+Follow these steps to install Deepin To The Void:
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/NeonLightions/DeepinToTheVoid.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```sh
+   cd DeepinToTheVoid
+   ```
+
+3. Create a build directory and enter it:
+
+   ```sh
+   mkdir build && cd build
+   ```
+
+4. Run CMake to configure the project:
+
+   ```sh
+   cmake ..
+   ```
+
+5. Build the project:
+
+   ```sh
+   cmake --build .
+   ```
+
+6. Run the game:
+
+   ```sh
+   ./DeepinToTheVoid
+   ```
+
+## 🌍 Supported Platform
+
+Currently, only Linux is supported. Future updates may include support for other platforms.
+
+## 📝 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.md) file for details.
+
+---
+
+~~This introduction has been written by AI~~
+
+# 🚀 Are you prepared to venture into the void?
+
